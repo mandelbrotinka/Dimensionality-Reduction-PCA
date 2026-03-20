@@ -1,6 +1,6 @@
 # Dimensionality-Reduction-PCA
 Manual implementation of Principal Component Analysis (PCA) using SVD. Features data visualization, noise reduction, and variance analysis.
-# Dimensionality Reduction: Manual PCA Implementation 📉
+# Dimensionality Reduction: Manual PCA Implementation 
 
 ### Project Overview
 This project focuses on **Principal Component Analysis (PCA)**, implemented from scratch using Singular Value Decomposition (SVD). The goal is to reduce the dimensionality of complex datasets while preserving the maximum amount of variance (information).
